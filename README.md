@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&tiktokebac=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&repo=tiktokebac=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
