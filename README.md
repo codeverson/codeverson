@@ -1,9 +1,14 @@
 ### Hi there 👋
-#### Sobre mim
+
+### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+###Linguagens utilizadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&repo=tiktokebac=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
