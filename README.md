@@ -4,17 +4,12 @@
 ### Detalhes
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projetos
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&repo=tiktokebac=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=false&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 <br/>
