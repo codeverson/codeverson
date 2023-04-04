@@ -1,18 +1,41 @@
 ### Hi there 👋
+<br/>
 
 ### Detalhes
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&repo=tiktokebac=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codeverson&repo=tiktokebac=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/everson-araujo-1285a726b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/codeverson)
+
+
+### Skills em desenvolvimento
+<br/>
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 
 <!-- adicionar Github, ajustar linguagens e projetos
 
@@ -30,3 +53,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
+
+
