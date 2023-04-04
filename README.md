@@ -1,11 +1,16 @@
 ### My Stats 
 <br/>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=tokyonight" style="pointer-events: none;" alt="Imagem não clicável">
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeverson&show_icons=true&theme=tokyonight)
+<br/>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=false&show_icons=true&theme=tokyonight" style="pointer-events: none;" alt="Imagem não clicável">
+</a>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeverson&hide_progress=false&show_icons=true&theme=tokyonight)
 #
 
 ### Get in touch
